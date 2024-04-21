@@ -1,7 +1,7 @@
 Exempel för att installera beroenden:
 
-paru -S - < *MAPP*/beroenden
+```paru -S - < *ÖNSKAD MAPP*/beroenden```
 
 alternativt
 
-pacman -S - < *MAPP*/beroenden
+```pacman -S - < *ÖNSKAD MAPP*/beroenden```
